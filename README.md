@@ -8,7 +8,7 @@ O objetivo foi explorar uma base de dados de funcionários, analisar a distribui
 
 - **Aluno:** Maicon da Silva
 - **Turma:** Business V3 (Ciclo 2)
-- **Módulo:** 1 — Semana 14
+- **Módulo:** 1 — REC
 
 Utilizei o VS Code para desenvolver as consultas SQL, executar o script Python e organizar a documentação do projeto.
 
