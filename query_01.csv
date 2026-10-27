@@ -1,0 +1,43 @@
+EMPLOYEE_ID,EMPLOYEE_NAME,SALARY,DEPARTMENT_NAME,JOB_TITLE
+100,Steven King,24000.00,Executive,President
+101,Neena Kochhar,17000.00,Executive,Administration Vice President
+102,Lex De Haan,17000.00,Executive,Administration Vice President
+103,Alexander Hunold,9000.00,IT,Programmer
+104,Bruce Ernst,6000.00,IT,Programmer
+105,David Austin,4800.00,IT,Programmer
+106,Valli Pataballa,4800.00,IT,Programmer
+107,Diana Lorentz,4200.00,IT,Programmer
+108,Nancy Greenberg,12008.00,Finance,Finance Manager
+109,Daniel Faviet,9000.00,Finance,Accountant
+110,John Chen,8200.00,Finance,Accountant
+111,Ismael Sciarra,7700.00,Finance,Accountant
+112,Jose Manuel Urman,7800.00,Finance,Accountant
+113,Luis Popp,6900.00,Finance,Accountant
+114,Den Raphaely,11000.00,Purchasing,Purchasing Manager
+115,Alexander Khoo,3100.00,Purchasing,Purchasing Clerk
+116,Shelli Baida,2900.00,Purchasing,Purchasing Clerk
+117,Sigal Tobias,2800.00,Purchasing,Purchasing Clerk
+118,Guy Himuro,2600.00,Purchasing,Purchasing Clerk
+119,Karen Colmenares,2500.00,Purchasing,Purchasing Clerk
+120,Matthew Weiss,8000.00,Shipping,Stock Manager
+121,Adam Fripp,8200.00,Shipping,Stock Manager
+122,Payam Kaufling,7900.00,Shipping,Stock Manager
+123,Shanta Vollman,6500.00,Shipping,Stock Manager
+124,Kevin Mourgos,5800.00,Shipping,Stock Manager
+125,Julia Nayer,3200.00,Shipping,Stock Clerk
+126,Irene Mikkilineni,2700.00,Shipping,Stock Clerk
+127,James Landry,2400.00,Shipping,Stock Clerk
+128,Steven Markle,2200.00,Shipping,Stock Clerk
+129,Laura Bissot,3300.00,Shipping,Stock Clerk
+130,Mozhe Atkinson,2800.00,Shipping,Stock Clerk
+145,John Russell,14000.00,Sales,Sales Manager
+146,Karen Partners,13500.00,Sales,Sales Manager
+147,Alberto Errazuriz,12000.00,Sales,Sales Manager
+148,Gerald Cambrault,11000.00,Sales,Sales Manager
+149,Eleni Zlotkey,10500.00,Sales,Sales Manager
+178,Kimberely Grant,7000.00,Sales,Sales Representative
+200,Jennifer Whalen,4400.00,Administration,Administration Assistant
+201,Michael Hartstein,13000.00,Marketing,Marketing Manager
+202,Pat Fay,6000.00,Marketing,Marketing Representative
+205,Shelley Higgins,12008.00,Accounting,Accounting Manager
+206,William Gietz,8300.00,Accounting,Public Accountant
